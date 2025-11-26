@@ -1,0 +1,62 @@
+[
+  {
+    "code": "AL",
+    "name": "Albania",
+    "neighbors": ["ME", "XK", "MK", "GR"]
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "neighbors": ["HR", "ME", "RS"]
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "neighbors": ["RO", "RS", "MK", "GR", "TR"]
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "neighbors": ["SI", "HU", "RS", "BA"]
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "neighbors": ["AL", "MK", "BG", "TR", "IT"]
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "neighbors": ["AL", "ME", "RS", "MK"]
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "neighbors": ["HR", "BA", "RS", "XK", "AL"]
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "neighbors": ["XK", "RS", "BG", "GR", "AL"]
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "neighbors": ["HU", "UA", "MD", "BG", "RS"]
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "neighbors": ["HU", "RO", "BG", "MK", "XK", "ME", "BA", "HR"]
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "neighbors": ["AT", "HU", "HR", "IT"]
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "neighbors": ["BG", "GR"]
+  }
+]
